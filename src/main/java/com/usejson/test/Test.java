@@ -1,4 +1,4 @@
-package usejson.test;
+package com.usejson.test;
 
 /**
  * Created by Administrator on 2016/12/24 0024.

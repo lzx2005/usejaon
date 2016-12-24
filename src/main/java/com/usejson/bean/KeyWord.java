@@ -1,4 +1,4 @@
-package usejson.bean;
+package com.usejson.bean;
 
 /**
  * Created by Administrator on 2016/12/24 0024.

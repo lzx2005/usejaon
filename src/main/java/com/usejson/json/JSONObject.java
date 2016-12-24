@@ -1,4 +1,4 @@
-package usejson.json;
+package com.usejson.json;
 
 import java.util.HashMap;
 import java.util.Map;
